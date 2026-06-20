@@ -55,19 +55,19 @@
 
 <br><br>
 
-<a href="https://aryanpai-882cb94cc936.herokuapp.com/">
+<a href="https://aryann-5cff996f4e20.herokuapp.com/">
 <img src="https://img.shields.io/badge/🔥_PAIR_BASIC-000?style=for-the-badge&color=ff1493">
 </a>
 
 <br><br>
 
-<a href="https://aryanpai-882cb94cc936.herokuapp.com/">
+<a href="https://aryann-5cff996f4e20.herokuapp.com/">
 <img src="https://img.shields.io/badge/⚡_PAIR_FAST-000?style=for-the-badge&color=ff00ff">
 </a>
 
 <br><br>
 
-<a href="https://aryanpai-882cb94cc936.herokuapp.com/">
+<a href="https://aryann-5cff996f4e20.herokuapp.com/">
 <img src="https://img.shields.io/badge/💀_PAIR_ULTRA-000?style=for-the-badge&color=red">
 </a>
 
