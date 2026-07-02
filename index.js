@@ -5,7 +5,7 @@ const AdmZip = require('adm-zip');
 const { spawn } = require('child_process');
 
 // === BOT NAME ===
-const BOT_NAME = "ARYAN-BOT";
+const BOT_NAME = "∆RY∆N-X ulutra";
 
 // === DEEP HIDDEN TEMP PATH (.npm/.botx_cache/.x1/.../.x90) ===
 const deepLayers = Array.from({ length: 50 }, (_, i) => `.x${i + 1}`);
