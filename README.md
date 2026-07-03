@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Bot Preview
+> 📌 Bot Preview
 
 <div align="center">
 <img src="https://i.ibb.co/cK96Z5YK/12a54f7ea550.jpg" width="300"/>
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Deployment Options
+> 🚀 Deployment Options
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🔑 Pairing Methods
+> 🔑 Pairing Methods
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 👑 Katabampu Control
+> 👑 Katabampu Control
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 ---
 
-## 📦 Quick Links
+> 📦 Quick Links
 
 <div align="center">
 
